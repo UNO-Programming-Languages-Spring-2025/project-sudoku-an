@@ -1,3 +1,9 @@
+% Auth: Angel Nunez
+% Due: 02-26-2025
+% Course: CSCI-4220
+% Desc:  Part 1c, add subgrid label formula
+
+
 % Sudoku Solver
 %
 % Hints:

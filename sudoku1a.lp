@@ -1,3 +1,10 @@
+% Auth: Angel Nunez
+% Due: 02-26-2025
+% Course: CSCI-4220
+% Desc:  Part 1a, Create 4x4 sudoku solver
+
+
+
 % Sudoku Solver
 %
 % Hints:

@@ -1,3 +1,9 @@
+% Auth: Angel Nunez
+% Due: 02-26-2025
+% Course: CSCI-4220
+% Desc:  Question 2, change numbers/n so we have a 9x9 board
+
+
 % Sudoku Solver
 %
 % Hints:
